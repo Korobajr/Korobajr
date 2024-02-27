@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Ramón</h1>
-<h3 align="center">As a Full-Stack Developer, I am interested in everything related to the web world and programming.</h3>
+<h3 align="center">As a Back-end Developer, I am interested in everything related to the web world and programming.</h3>
 
-- 🌱 I’m currently learning **ReactJS, VueJS and NextJS**
+- 🌱 I’m currently learning **SQL **
 
 - 👯 I’m looking to collaborate on **Archeology related projects**
 
-- 💬 Ask me about **JavaScript and Prehistoric history**
+- 💬 Ask me about **Java, microservices, backend and Prehistoric history**
 
 - 📫 How to reach me **jrcoroba@hotmail.com**
 
