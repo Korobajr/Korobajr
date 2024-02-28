@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jrcoroba@hotmail.com**
 
-- ⚡ Fun fact **I enjoy historic wargames**
+- ⚡ Fun fact **I enjoy wargames and videogames**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
